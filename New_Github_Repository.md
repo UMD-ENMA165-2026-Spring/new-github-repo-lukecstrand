@@ -11,4 +11,4 @@ I then created a note in the README.md detailing the purpose of this repository.
 
 
 > [!Warning]
-> If I need to convey an important piece of imformation, I'd write it here!
+> If I needed to convey an important piece of imformation, I'd write it here!
