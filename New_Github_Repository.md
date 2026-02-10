@@ -1,6 +1,7 @@
 # New Github Repository
 ## Repository Setup 
-I decided to not include a **gitignore** because there is only one file and it is not temporary, and thus version control should applied to the file. I also added an **MIT License** becauase it's a license type that I recognize.
+I decided to not include a **gitignore** because there is only one file and it is not temporary, and thus version control should applied to the file. I also added an **MIT License** becauase it's a license type that I recognize. <br/>
+I then created a note in the README.md detailing the purpose of this repository.
 
 
 ## *Flavor* Text
